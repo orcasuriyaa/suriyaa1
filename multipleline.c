@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main (void)
+int main(void)
 {
-printf ("Testing...\n..1\n...2\n....3\n");
-return 0;
+	printf ("Testing...\n..1\n...2\n....3\n");
+	return 0;
 }
