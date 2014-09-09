@@ -1,5 +1,5 @@
 /* initializing array value to zero
- * SuriyaaKumar G M, August8 2014 */
+ * SuriyaaKumar G M, Sep8 2014 */
 
 #include <stdio.h>
 

@@ -1,5 +1,5 @@
 /* fibonacci
- SuriyaaKumar G M, August9 2014 */
+ SuriyaaKumar G M, Sep9 2014 */
 
 #include <stdio.h>
 
